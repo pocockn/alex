@@ -2,16 +2,15 @@
     margin-right:20px;
 }
 
-.header {
-    margin-top:30px;
-}
-
-.table {
-    margin-top:60px;
-}
-
 h4 {
     color:#464646;
+}
+
+.table{
+    margin-top:20px;
+}
+ .form-inline{
+    margin-top:20px;
 }
 
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
@@ -19,4 +18,12 @@ padding: 8px;
 line-height: 1.42857143;
 vertical-align: top;
 border: 1px solid #464646;
+}
+
+p,h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.num-row {
+    color:#1F70C1;
 }
